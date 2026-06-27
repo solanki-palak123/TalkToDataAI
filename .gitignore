@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+graph.png
+forecast.png
+dashboard.png
+AI_Report.pdf
