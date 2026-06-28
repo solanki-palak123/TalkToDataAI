@@ -1,19 +1,19 @@
-# 📊 TalkToData AI
+# TalkToData AI
 
 An AI-powered data analysis application that allows users to upload CSV datasets, ask questions in natural language, generate visualizations, forecast future values, and download PDF reports.
 
-## 🚀 Features
+## Features
 
-* 📂 Upload CSV datasets
-* 🤖 AI-powered data analysis using Google Gemini
-* 📈 Automatic graph generation
-* 📊 Dataset summary and statistics
-* 🔍 Missing values and data type detection
-* 📉 Machine Learning forecasting
-* 📄 PDF report generation
-* 🖥️ Interactive Gradio web interface
+*  Upload CSV datasets
+*  AI-powered data analysis using Google Gemini
+*  Automatic graph generation
+*  Dataset summary and statistics
+*  Missing values and data type detection
+*  Machine Learning forecasting
+*  PDF report generation
+* Interactive Gradio web interface
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -25,10 +25,10 @@ An AI-powered data analysis application that allows users to upload CSV datasets
 * Gradio
 * ReportLab
 
-## 📦 Installation
+## Installation
 
 ```bash
-git clone https://github.com/yourusername/TalkToDataAI.git
+git clone https://github.com/solanki-palak123/TalkToDataAI.git
 cd TalkToDataAI
 
 python -m venv venv
@@ -41,11 +41,14 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## 📷 Screenshots
+## Screenshots
 
-(Add screenshots here after uploading them to GitHub.)
+Home.png
+report.png
+Summary.png
+Graph.png
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Multiple file support
 * Interactive dashboard
@@ -53,6 +56,6 @@ python app.py
 * Database connectivity
 * User authentication
 
-## 👨‍💻 Author
+## Author
 
-Your Name
+Palak Singh
